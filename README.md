@@ -15,3 +15,7 @@ You can generate the certificate store with [this](https://github.com/esp8266/Ar
 I have only tested it using [PlatformIO](https://platformio.org/). If you are not using PlatformIO, I highly recommend trying it out. You can find getting started instructions from Random Nerd Tutorials [here](https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/)
 
 You can find LittleFS upload instructions for PlatformIO [here](https://randomnerdtutorials.com/esp8266-nodemcu-vs-code-platformio-littlefs/). If you want to use the Arduino IDE, you can find instructions [here](https://randomnerdtutorials.com/install-esp8266-nodemcu-littlefs-arduino/)
+
+
+
+You can use any of this code in your projects
