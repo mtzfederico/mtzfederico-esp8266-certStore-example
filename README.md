@@ -1,4 +1,4 @@
-# mtzfederico-esp8266-certStore-example
+# ESP8266 Certificate Store Example
 
 This is an example code for the ESP8266 that shows how to make https requests using a certificate store and how to update that certificate store remotely.
 
